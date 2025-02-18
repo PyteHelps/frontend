@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="../public/favicon.ico" type="image/x-icon" />
+    <title>Pyte!</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/index.css') }}" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="glass">
+        <h1>It's Flask + Pyte working!</h1>
+        <div class="icons">
+          <img src="{{ url_for('static', filename='assets/flask.svg') }}" />
+          <img src="{{ url_for('static', filename='assets/pyte.svg') }}" />
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
