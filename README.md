@@ -1,6 +1,6 @@
 # Pyte - Thank You!
 
-![Pyte Logo]([https://yourlogo.url](https://avatars.githubusercontent.com/u/199784664?s=400&u=4dba7668aea29e7092082f057dd430824b9d7c8a&v=4)) <!-- Replace with your logo -->
+![Pyte Logo]([[https://yourlogo.url](https://avatars.githubusercontent.com/u/199784664?s=400&u=4dba7668aea29e7092082f057dd430824b9d7c8a&v=4)](https://avatars.githubusercontent.com/u/199784664?s=400&u=4dba7668aea29e7092082f057dd430824b9d7c8a&v=4)) <!-- Replace with your logo -->
 
 ## ✨ What do I do now?
 
